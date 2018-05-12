@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8391
     wikipedia: http://en.wikipedia.org/wiki/William_Combe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42299#The-History-of-Johnny-Qu--Genusthe-Author-of-the-Three-Tours.
 gutenberg_issued: '2013-03-10'
 gutenberg_type: Text
 identifiers:
