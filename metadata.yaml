@@ -1,0 +1,43 @@
+_repo: The-History-of-Johnny-Qu--Genusthe-Author-of-the-Three-Tours._42299
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rowlandson, Thomas
+    alias: Rowlandson, T. (Thomas)
+    birthdate: 1756
+    deathdate: 1827
+    gutenberg_agent_id: '28396'
+    url: http://www.gutenberg.org/2009/agents/28396
+covers:
+- cover_type: archival
+  image_path: 42299-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Combe, William
+    aliases:
+    - Syntax, Dr.
+    - Coombe, William
+    - Doctor Syntax
+    birthdate: 1742
+    deathdate: 1823
+    gutenberg_agent_id: '8391'
+    url: http://www.gutenberg.org/2009/agents/8391
+    wikipedia: http://en.wikipedia.org/wiki/William_Combe
+description: ''
+gutenberg_issued: '2013-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Caricatures and
+  cartoons'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Poetry'
+- !lcsh 'English wit and humor, Pictorial'
+- !lcc 'PR'
+title: "The History of Johnny Quæ Genus, the Little Foundling of the Late Doctor Syntax.\r\
+  \nA Poem by the Author of the Three Tours."
+url: http://www.gutenberg.org/ebooks/42299
